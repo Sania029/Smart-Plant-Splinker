@@ -42,5 +42,8 @@ If the soil is sufficiently moist, the relay turns off the pump to save water.
 
 5.Power on the system and observe its automatic irrigation process.
 
+
 **📷 Demo **
+
+
 ![image](https://github.com/user-attachments/assets/9ac2e7db-5e7d-44bc-8733-5cc88f672fcd)
